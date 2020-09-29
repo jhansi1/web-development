@@ -25,11 +25,11 @@ app.post("/", function(req, res) {
     }
     
     mailchimp.setConfig({
-        apiKey: 'ef083d38af0b8099a8a72ff95b224292-us2',
-        server: 'us2'
+        apiKey: 'Your API Key',
+        server: 'us-2'
     });
     
-    const listId = 'b4e9da365f';
+    const listId = 'Your List ID';
 
     const run = async () => {
         const response = await mailchimp.lists.batchListMembers(listId, {
@@ -66,9 +66,3 @@ app.listen(process.env.PORT || 3000, function() {
 });
 
 
-//API KEY: 
-//ef083d38af0b8099a8a72ff95b224292-us2
-
-
-//list_id
-//b4e9da365f
