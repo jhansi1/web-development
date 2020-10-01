@@ -6,3 +6,6 @@
 #### 2. Simon game challenge
   - Skills: HTML, CSS, JavaScript, jQuery
   - Link: https://jhansi1.github.io/simon-game-challenge/
+#### 3. Drum-Kit Project
+  - Skills: HTML, CSS, JavaScript
+  - Link: https://jhansi1.github.io/Drum-Kit/index.html
