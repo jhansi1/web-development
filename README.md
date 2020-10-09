@@ -9,10 +9,10 @@
 #### 3. Drum-Kit Project
   - Skills: HTML, CSS, JavaScript
   - Link: https://jhansi1.github.io/Drum-Kit/index.html
-#### 4. ToDO List V1
+#### 4. ToDo List App V1
   - Skills: HTML, CSS, Bootstrap, JavaScript, Node.js, npm, Express.js, EJS(Embedded JavaScript Templates)
-#### 5. Blog Website V1
+#### 5. Daily Journal Website V1
   - Skills: HTML, CSS, Bootstrap, JavaScript, Node.js, npm, Express.js, EJS
-#### 6. ToDO List V2
+#### 6. ToDo List App V2
   - Skills: HTML, CSS, Bootstrap, JavaScript, Node.js, npm, Express.js, EJS(Embedded JavaScript Templates), MongoDB, Heroku, MongoDB Atlas cloud service
   - Link: https://immense-spire-63333.herokuapp.com/
