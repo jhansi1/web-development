@@ -11,8 +11,10 @@
   - Link: https://jhansi1.github.io/Drum-Kit/index.html
 #### 4. ToDo List App V1
   - Skills: HTML, CSS, Bootstrap, JavaScript, Node.js, npm, Express.js, EJS(Embedded JavaScript Templates)
-#### 5. Daily Journal Website V1
+#### 5. Daily Journal Web App V1
   - Skills: HTML, CSS, Bootstrap, JavaScript, Node.js, npm, Express.js, EJS
 #### 6. ToDo List App V2
   - Skills: HTML, CSS, Bootstrap, JavaScript, Node.js, npm, Express.js, EJS(Embedded JavaScript Templates), MongoDB, Heroku, MongoDB Atlas cloud service
   - Link: https://immense-spire-63333.herokuapp.com/
+#### 7. Daily Journal Web App V2
+  - Skills: HTML, CSS, Bootstrap, JavaScript, Node.js, npm, Express.js, EJS, mongoDB, mongoose
